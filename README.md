@@ -16,15 +16,15 @@ This project is fully open-source and includes schematics, PCB design, and a sim
 
 Microcontroller: Arduino Micro RP2040
 
-Switches: Cherry  switches 6mm
+Buttons: Push Button Switch
 
 joysticks: COM-09032
 
 ## Bill of Materials (BOM)
 
-1 x Arduino Micro RP2040
+1 x Arduino Nano RP2040
 
-10 x Cherry  switches 6mm
+10 x Push Button Switch
 
 2 x COM-09032
 
