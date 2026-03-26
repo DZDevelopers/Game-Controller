@@ -31,3 +31,11 @@ joysticks: COM-09032
 1 × Custom-designed PCB
 
 1 × Case (3D-printed)
+[Untitled spreadsheet - Sheet1.csv](https://github.com/user-attachments/files/26259942/Untitled.spreadsheet.-.Sheet1.csv)
+Item,Quantity,Unit Price (USD),Total,Link
+Arduino Nano RP2040,1,$26.00,$26.00,Arduino Nano RP2040 Connect
+Push Button Switch,10,$0.40,$4.00,Tactile switch PCB 12x12x8.5mm black
+COM-09032,2,$5.25,$10.50,COM-09032
+Custom-designed PCB,1,$4.00,$5.00,
+3D Printed Case,1,$3.00,$3.00,
+,,,$48.50,
