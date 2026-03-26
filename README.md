@@ -31,5 +31,3 @@ joysticks: COM-09032
 1 × Custom-designed PCB
 
 1 × Case (3D-printed)
-[Untitled spreadsheet - Sheet1.csv](https://github.com/user-attachments/files/26259944/Untitled.spreadsheet.-.Sheet1.csv)
-
