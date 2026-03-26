@@ -1,6 +1,6 @@
 # Game Controller
 
-This is a game controller powered by an Arduino Micro RP2040. It features two joysticks and ten buttons, designed for custom gaming and input projects.
+This is a game controller powered by an Arduino Nano RP2040. It features two joysticks and ten buttons, designed for custom gaming and input projects.
 
 This project is fully open-source and includes schematics, PCB design, and a simple enclosure.
 ### Overall game controller
