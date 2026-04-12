@@ -21,7 +21,7 @@ joysticks: COM-09032
 
 ## Bill of Materials (BOM)
 
-1 x Arduino Nano RP2040
+1 x Raspberry Pi Pico
 
 10 x Push Button Switch
 
