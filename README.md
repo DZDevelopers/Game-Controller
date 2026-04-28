@@ -7,10 +7,10 @@ This project is fully open-source and includes schematics, PCB design, and a sim
 <img width="616" height="280" alt="image (1)" src="https://github.com/user-attachments/assets/bc30b7bf-3b10-407f-a2d6-5037de322e5d" />
 
 ### Schematic
-<img width="1213" height="726" alt="1775876700277-8i563v" src="https://github.com/user-attachments/assets/4ff58d3d-6b88-46b8-95e9-2a823203132f" />
+<img width="974" height="686" alt="image" src="https://github.com/user-attachments/assets/38f8f7a7-72af-4ee1-bb2e-74a2fc48a9fd" />
 
 ### PCB
-<img width="781" height="431" alt="1775876652035-spfbfo" src="https://github.com/user-attachments/assets/5ef03149-209a-48b4-9575-3120efe88df7" />
+<img width="1252" height="664" alt="image" src="https://github.com/user-attachments/assets/f9db2fed-5a75-480e-8573-baae762aee4d" />
 
 ## Hardware Overview
 
